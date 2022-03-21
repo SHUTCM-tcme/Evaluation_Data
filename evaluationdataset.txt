@@ -1,0 +1,82 @@
+AM Type: Mild reinforcing-attenuating of lifting-thrusting
+Name	Age	Gender	Video File	Grade	Amplitude Performance	Frequency Performance	Amplitude Stability	Force Stability	Time Stability	Finger Supporting	Feedback
+王易升	22	Male	wangyisheng.TP.mp4	Good	Normal	Too low	Good	Good	Good	Yes	
+戴超然	23	Male	daichaoran.TP.mp4	Good	Normal	Normal	Good	Good	Excellent	Yes	
+吕若云	23	Female	lvruoyun.TP.mp4	Average	Normal	Too low	Excellent	Average	Excellent	Yes	
+孔协和	22	Male	kongxiehe.TP.mp4	Good	Normal	Normal	Excellent	Good	Excellent	Yes	
+陈梦思	21	Female	chenmengsi.TP.mp4	Average	Too large	Normal	Average	Good	Good	Yes	
+余洁	21	Female	yujie.TP.mp4	Good	Normal	Normal	Good	Excellent	Excellent	Yes	
+杨晓彤	21	Female	yangxiaotong.TP.mp4	Average	Too large	Too low	Good	Good	Excellent	Yes	
+热娜古力	21	Female	renaguli.TP.mp4	Poor	Normal	Normal	Poor	Average	Average	Yes	
+陈竞	21	Male	chenjing.TP.mp4	Good	Too large	Too low	Good	Excellent	Excellent	Yes	
+张雨轩	22	Female	zhangyuxuan.TP.mp4	Good	Normal	Too low	Good	Excellent	Excellent	Yes	
+宋宇锦	24	Female	songyujin.TP.mp4	Average	Normal	Too low	Good	Excellent	Excellent	Yes	
+陆嘉靖	21	Female	lujiajing.TP.mp4	Excellent	Normal	Normal	Excellent	Excellent	Excellent	Yes	
+顾成栋	24	Male	guchengdong.TP.mp4	Good	Normal	Normal	Average	Good	Good	Yes	
+郭梦虎	24	Male	guomenghu.TP.mp4	Good	Normal	Normal	Excellent	Excellent	Excellent	Yes	
+张亚丹	24	Male	zhangyadan.TP.mp4	Good	Normal	Too high	Excellent	Good	Excellent	Yes	
+陆永嘉	27	Male	luyongjia.TP.mp4	Good	Normal	Too low	Excellent	Excellent	Excellent	Yes	
+阮乐权	23	Male	ruanlequan.TP.mp4	Good	Normal	Too low	Good	Excellent	Excellent	Yes	
+武忆林	22	Female	wuyilin.TP.mp4	Poor	Too large	Too low	Average	Average	Average	Yes	
+周冬雪	21	Female	zhoudongxue.TP.mp4	Good	Normal	Normal	Good	Good	Excellent	Yes	
+詹逸君	22	Female	zhanyijun.TP.mp4	Good	Normal	Normal	Good	Excellent	Excellent	Yes	
+邢华	24	Male	xinghua.TP.mp4	Good	Normal	Normal	Good	Excellent	Excellent	Yes	
+莫雪蕊	23	Female	moxuerui.TP.mp4	Good	Normal	Too low	Excellent	Excellent	Excellent	Yes	
+管磊	24	Male	guanlei.TP.mp4	Good	Normal	Too low	Excellent	Excellent	Good	Yes	
+林金玲	22	Female	linjinling.TP.mp4	Average	Normal	Too low	Good	Good	Good	Yes	
+范宝卿	21	Female	fanbaoqing.TP.mp4	Good	Too large	Normal	Good	Good	Excellent	Yes	
+李芳杰	32	Female	lifangjie.TP.mp4	Average	Too large	Too low	Good	Excellent	Excellent	Yes	
+魏海燕	24	Female	weihaiyan.TP.mp4	Excellent	Normal	Normal	Excellent	Excellent	Excellent	Yes	
+张博渊	23	Male	zhangboyuan.TP.mp4	Average	Normal	Too low	Good	Good	Good	Yes	
+朱莹	21	Female	zhuying.TP.mp4	Good	Normal	Too low	Excellent	Excellent	Excellent	Yes	
+陈碧松	20	Male	chenbisong.TP.mp4	Excellent	Normal	Normal	Excellent	Excellent	Excellent	Yes	
+罗智源	23	Female	luozhiyuan.TP.mp4	Good	Normal	Too low	Good	Good	Good	Yes	
+贾汉旗	21	Male	jiahanqi.TP.mp4	Average	Too Small	Too low	Average	Good	Excellent	Yes	
+陈贵仪	20	Female	chenguiyi.TP.mp4	Good	Normal	Too low	Excellent	Excellent	Excellent	Yes	
+王欣怡	21	Female	wangxinyi.TP.mp4	Good	Normal	Too low	Excellent	Excellent	Excellent	Yes	
+陆丽	22	Female	luli.TP.mp4	Average	Too Small	Too high	Average	Good	Excellent	Yes	
+郑念祖	23	Male	zhengnianzu.TP.mp4	Good	Normal	Too low	Excellent	Excellent	Excellent	Yes	
+王雯芳	21	Female	wangwenfang.TP.mp4	Good	Normal	Too low	Good	Good	Good	Yes	
+荀彬彬	22	Male	xunbinbin.TP.mp4	Good	Too large	Too low	Good	Excellent	Good	Yes	
+张佳	22	Female	zhangjia.TP.mp4	Good	Normal	Normal	Good	Excellent	Excellent	Yes	
+温宗麟	23	Male	wenzonglin.TP.mp4	Excellent	Normal	Normal	Excellent	Excellent	Excellent	Yes	
+马旭	25	Female	maxu.TP.mp4	Good	Too large	Too low	Excellent	Excellent	Excellent	Yes	
+陈怀锦	24	Female	chenhuaijin.TP.mp4	Good	Normal	Too low	Excellent	Excellent	Excellent	Yes	
+申华	24	Female	shenhua.TP.mp4	Average	Too Small	Normal	Good	Good	Excellent	Yes	
+刘兰兰	24	Female	liulanlan.TP.mp4	Excellent	Normal	Normal	Excellent	Excellent	Excellent	Yes	
+林嘉诚	24	Male	linjiacheng.TP.mp4	Average	Normal	Too low	Excellent	Good	Excellent	Yes	
+艾依吐尔孙	22	Female	aiyituersun.TP.mp4	Average	Normal	Too low	Good	Average	Excellent	Yes	
+王艳	22	Female	wangyan.TP.mp4	Good	Normal	Too low	Excellent	Excellent	Excellent	Yes	
+安晓菲	21	Female	anxiaofei.TP.mp4	Excellent	Normal	Normal	Excellent	Excellent	Excellent	Yes	
+张薇薇	22	Female	zhangweiwei.TP.mp4	Good	Too large	Too low	Excellent	Excellent	Excellent	Yes	
+邵婕	22	Female	shaojie.TP.mp4	Good	Normal	Too low	Excellent	Good	Excellent	Yes	
+木拉提	20	Female	mulati.TP.mp4	Excellent	Normal	Normal	Excellent	Excellent	Excellent	Yes	
+刘明翰	25	Male	liuminghan.TP.mp4	Good	Normal	Normal	Excellent	Excellent	Excellent	Yes	
+裴燕妮	21	Female	peiyanni.TP.mp4	Good	Normal	Too low	Excellent	Good	Excellent	Yes	
+武雨青	21	Female	wuyuqing.TP.mp4	Good	Too large	Too low	Good	Excellent	Excellent	Yes	
+孙蔓沁	23	Female	sunmanqin.TP.mp4	Poor	Too Small	Normal	Excellent	Poor	Good	Yes	
+王克谐	24	Male	wangkexie.TP.mp4	Good	Normal	Too low	Excellent	Excellent	Excellent	Yes	
+郭红	23	Female	guohong.TP.mp4	Good	Normal	Too low	Good	Excellent	Excellent	Yes	
+周宁	22	Male	zhouning.TP.mp4	Good	Normal	Too high	Good	Excellent	Excellent	Yes	
+杨光	23	Female	yangguang.TP.mp4	Good	Normal	Too low	Good	Excellent	Excellent	Yes	
+艾买提	21	Male	aimaiti.TP.mp4	Good	Normal	Too low	Good	Excellent	Excellent	Yes	
+王思语	23	Female	wangsiyu.TP.mp4	Good	Normal	Too low	Excellent	Excellent	Excellent	Yes	
+张菁	21	Female	zhangjing.TP.mp4	Good	Too large	Normal	Good	Excellent	Good	Yes	
+李明熹	23	Male	limingxi.TP.mp4	Good	Normal	Too low	Good	Excellent	Excellent	Yes	
+孙艳红	24	Female	sunyanhong.TP.mp4	Average	Normal	Normal	Good	Average	Excellent	Yes	
+黄伟庭	23	Male	huangweiting.TP.mp4	Excellent	Normal	Normal	Excellent	Excellent	Excellent	Yes	
+王语卿	21	Female	wangyuqing.TP.mp4	Good	Normal	Too low	Good	Good	Good	Yes	
+王雯璐	20	Female	wangwenlu.TP.mp4	Good	Normal	Normal	Excellent	Good	Excellent	No	
+陈金田	22	Male	chenjintian.TP.mp4	Good	Normal	Too low	Excellent	Excellent	Excellent	Yes	
+殷田薇	22	Female	yintianwei.TP.mp4	Average	Normal	Normal	Average	Average	Good	Yes	
+张航飞	24	Female	zhanghangfei.TP.mp4	Poor	Too Small	Too high	Average	Average	Average	Yes	
+肖欣然	22	Female	xiaoxinran.TP.mp4	Good	Normal	Too low	Good	Excellent	Excellent	Yes	
+王观涛	25	Male	wangguantao.TP.mp4	Average	Too Small	Too low	Good	Good	Good	Yes	
+王忆梦	21	Female	wangyimeng.TP.mp4	Good	Normal	Normal	Good	Good	Excellent	Yes	
+林静	21	Female	linjing.TP.mp4	Good	Too large	Too low	Good	Good	Excellent	Yes	
+刘健	20	Male	liujian.TP.mp4	Good	Normal	Normal	Good	Good	Excellent	Yes	
+严天伟	21	Male	yantianwei.TP.mp4	Good	Normal	Too high	Good	Good	Excellent	Yes	
+陆冰	24	Male	lubing.TP.mp4	Good	Normal	Too low	Excellent	Excellent	Excellent	Yes	
+舒雯	24	Female	shuwen.TP.mp4	Excellent	Normal	Normal	Excellent	Excellent	Excellent	Yes	
+黄渺苗	21	Female	huangmiaomiao.TP.mp4	Good	Normal	Normal	Excellent	Good	Excellent	Yes	
+白德如	22	Female	TP.mp4	Good	Normal	Too low	Excellent	Excellent	Excellent	Yes
